@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal de noticias</title>
+        <link>https://noticiasindex.neocities.org/</link>
+        <description>Últimas noticias del Ayuntamiento de Córdoba</description>
+        <language>es</language>
+        <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+        <lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <managingEditor>editor@aytocordoba.com</managingEditor>
+        <category>Cultura</category>
+        <category>Oposiciones</category>
+        <category>Sede Electrónica</category>
+        <image>
+            <url>https://www.cordoba.es/imagen-corporativa</url>
+            <title>Ayuntamiento de Córdoba</title>
+            <link>https://www.cordoba.es/</link>
+        </image>
+        <ttl>60</ttl>
+        <item>
+            <title>Noticia 1</title>
+            <category>Cultura</category>
+            <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+            <description>Contenido de la Noticia 1...</description>
+            <link>https://noticiasindex.neocities.org/#articulo1</link>
+            <guid>https://noticiasindex.neocities.org/#articulo1</guid>
+        </item>
+        <item>
+            <title>Noticia 2</title>
+            <category>Cultura</category>
+            <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+            <description>Contenido de la Noticia 2...</description>
+            <link>https://noticiasindex.neocities.org/#articulo2</link>
+            <guid>https://noticiasindex.neocities.org/#articulo2</guid>
+        </item>
+        <item>
+            <title>Noticia 3</title>
+            <category>Cultura</category>
+            <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+            <description>Contenido de la Noticia 3...</description>
+            <link>https://noticiasindex.neocities.org/#articulo3</link>
+            <guid>https://noticiasindex.neocities.org/#articulo3</guid>
+        </item>
+    </channel>
+</rss>
